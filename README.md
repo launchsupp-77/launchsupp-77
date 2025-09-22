@@ -1,10 +1,9 @@
 ## Hey there 👋, I'm [Lanuch Supp!](https://github.com/launchsupp-77)
 
 <code>
-  <img height="40" 
-       src="https://raw.githubusercontent.com/animated-icons/animated-icons/main/icons/dotnet/dotnet.svg" 
-       alt="asp.net animation">
+  <img height="40" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="asp.net animation">
 </code>
+
 
 ### Glad to see you here!
 
