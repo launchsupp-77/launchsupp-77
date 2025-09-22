@@ -1,16 +1,9 @@
 ## Hey there 👋, I'm [Lanuch Supp!](https://github.com/launchsupp-77)
 
-<style>
-  .logo:hover {
-    transform: scale(1.2) rotate(5deg);
-    transition: transform 0.3s ease;
-  }
-</style>
-
 <code>
-  <img class="logo" height="27" 
-       src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" 
-       alt="asp.net">
+  <img height="40" 
+       src="https://raw.githubusercontent.com/animated-icons/animated-icons/main/icons/dotnet/dotnet.svg" 
+       alt="asp.net animation">
 </code>
 
 ### Glad to see you here!
