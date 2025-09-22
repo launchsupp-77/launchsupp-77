@@ -1,8 +1,8 @@
 ## Hey there 👋, I'm [Lanuch Supp!](https://github.com/launchsupp-77)
 
-<code>
-  <img height="40" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="asp.net animation">
-</code>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=ASP.NET+Developer;C%23+%7C+.NET+Core+%7C+MVC;Building+Scalable+Web+Apps" alt="ASP.NET Typing SVG" />
+</div>
 
 
 ### Glad to see you here!
