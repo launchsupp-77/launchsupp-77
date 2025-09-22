@@ -1,8 +1,17 @@
 ## Hey there 👋, I'm [Lanuch Supp!](https://github.com/launchsupp-77)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+<style>
+  .logo:hover {
+    transform: scale(1.2) rotate(5deg);
+    transition: transform 0.3s ease;
+  }
+</style>
+
+<code>
+  <img class="logo" height="27" 
+       src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" 
+       alt="asp.net">
+</code>
 
 ### Glad to see you here!
 
