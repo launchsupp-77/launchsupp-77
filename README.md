@@ -102,3 +102,91 @@ Like My Work?
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
+<!-- Cover -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:1976D2&height=200&section=header&text=Mahjoub%20Osman%20Mahjoub&fontSize=48&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<h3 align="center">🚀 Software Engineer | Full-Stack Developer | Cloud & DevOps</h3>
+<p align="center">Building smart digital platforms in Saudi Arabia 🇸🇦</p>
+
+---
+
+## 🧑‍💻 About Me
+- 🧠 Full-stack developer (ASP.NET Core, PHP Laravel, WordPress)
+- 🏢 Founder & Developer of multiple platforms (Property, Booking, Maintenance)
+- 🌍 Freelancer on Upwork — delivering digital services globally
+- ☁️ Experience with Cloud Servers, Docker, CI/CD, DevOps, Cyber Security
+- 💡 Passion: Transforming business needs into real digital solutions
+
+---
+
+## 🌐 My Live Platforms & Projects
+
+| المشروع | الرابط |
+|---------|-------|
+| منصة إدارة العقارات — العقار الأمين | https://secestat.com |
+| منصة خدمات الصيانة — AlMusanidPlatform | https://codegloble.com |
+| منصة الحجوزات | https://ccbooking.net |
+| موقع الخدمات التقنية و البرمجة | https://nanoview-ksa.com |
+| البورتفوليو الشخصي | https://launchsupp-77.github.io/partfolio-web |
+| بروفايل Upwork | https://www.upwork.com/freelancers/~01265b91b765c9c6aa |
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,react,js,ts,html,css,bootstrap,tailwind,postgres,mysql,sqlite,redis,azure,aws,linux,docker,git,github,vscode,postman&perline=10" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=launchsupp-77&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=launchsupp-77&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## ✨ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 📞 Contact & Support
+
+<p align="center">
+  <a href="https://wa.me/966531960737" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="mailto:launchsupp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://codegloble.com/Home/Meeting" target="_blank">
+    <img src="https://img.shields.io/badge/Book%20a%20Meeting-0078FF?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💛 Support My Work
+<p align="center">
+  <a href="https://codegloble.com/Home/Support" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0D47A1,100:1976D2&height=120"/>
+</p>
+د
