@@ -4,6 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=ASP.NET+Developer;C%23+%7C+.NET+Core+%7C+MVC;Building+Scalable+Web+Apps" alt="ASP.NET Typing SVG" />
 </div>
 
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Integration+%7C+Smart+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Backend+Dev+%7C+Python+Enthusiast;Python+🚀+Modern+RESTful+practices;" alt="Typing SVG" />
+</div>
+
 
 ### Glad to see you here!
 
