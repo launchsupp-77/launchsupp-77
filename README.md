@@ -120,13 +120,6 @@ Like My Work?
 
 ---
 
-## ✨ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
 ## 📞 Contact & Support
 
 <p align="center">
@@ -134,7 +127,7 @@ Like My Work?
     <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="mailto:launchsupp@gmail.com" target="_blank">
+  <a href="mailto:supplaunch@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -157,4 +150,3 @@ Like My Work?
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0D47A1,100:1976D2&height=120"/>
 </p>
-د
